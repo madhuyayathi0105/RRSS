@@ -64,6 +64,8 @@
                         Font-Bold="True" Font-Names="Book Antiqua" Font-Size="Medium"></asp:TextBox>
 
                          <asp:Button ID="Button5" runat="server" Text="Add" OnClick="Button33_click" />
+
+                          <asp:Label ID="Label1" Font-Bold="true" runat="server" Font-Size="Medium"></asp:Label></div>
                 </td>
             </tr>
         </table>
