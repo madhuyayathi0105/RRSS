@@ -63,7 +63,7 @@
                         <asp:TextBox ID="TextBox3" CssClass="txt" runat="server" Height="20px" Width="79px"
                         Font-Bold="True" Font-Names="Book Antiqua" Font-Size="Medium"></asp:TextBox>
 
-                         <asp:Button ID="Button5" runat="server" Text="Add" OnClick="Button3_click" />
+                         <asp:Button ID="Button5" runat="server" Text="Add" OnClick="Button33_click" />
                 </td>
             </tr>
         </table>
