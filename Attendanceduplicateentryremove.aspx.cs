@@ -410,6 +410,11 @@ public partial class Attendanceduplicateentryremove : System.Web.UI.Page
     protected void Button3_click(object sender, EventArgs e)
     {
 
+        TextBox3.Text = "hi";
+    }
+    protected void Button3_click(object sender, EventArgs e)
+    {
+
         if (!string.IsNullOrEmpty(txtDate.Text) && !string.IsNullOrEmpty(txttoDate.Text))
         {
             string selectedDate = txtDate.Text.ToString();
