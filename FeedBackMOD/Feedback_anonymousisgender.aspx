@@ -4,14 +4,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
-<<<<<<< HEAD
     <body>htdghgdfghghgg;
         123456\fgfgfgfgf;
-=======
-    <body>
-    guywtgjhashdsyf;
-    hefuwgjhfbd;
->>>>>>> 27701fd1c4ec3be617399e5cf68081ce20a42ea0
         <script type="text/javascript">
             function myFunction(x) {
                 x.style.borderColor = "#c4c4c4";
